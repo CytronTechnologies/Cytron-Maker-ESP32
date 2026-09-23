@@ -11,7 +11,7 @@ The Maker ESP32 is designed to take the frustration out of building smart electr
 
 ## Features
 
-![image Maker ESP32 01](images/MAKER ESP 32_01.png)
+![image Maker ESP32 01](https://github.com/CytronTechnologies/Cytron-Maker-ESP32/blob/main/images/MAKER%20ESP%2032_01.png)
 
 ![image Maker ESP32 02](images/MAKER ESP 32_02.png)
 
